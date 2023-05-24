@@ -1,10 +1,10 @@
-# Site loto Clément
+# Site loto Alexandre
 
 projet loto dans le module dev web
 
 ## Pour commencer
 
-ce projet est un jeu donc il faut vouloir s'ammusser
+ce projet est un jeu donc il faut vouloir s'amuser
 
 ### Pré-requis
 
